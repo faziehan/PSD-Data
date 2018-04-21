@@ -2,7 +2,7 @@
 
 ## This is raw data collection that used to extract product and service features in our research for Product-Service Design under Faculty of Technical and Vocational Education, Universiti Tun Hussien Onn Malaysia.
 
-## This Repository Consist of three directories
+## This repository consist of three directories
 1.  Optimization <br>
     This directory consists of java code that is used for optimization based on the provided input product and service data.
 
