@@ -1,6 +1,6 @@
 # PSD-Data
 
-## This is raw data collection that used to extract product and service features in our research for Product-Service Design under Faculty of Technical and Vocational Education, Universiti Tun Hussien Onn Malaysia.
+## This is raw data collection that used in our research project 
 
 ## This repository consist of three directories
 1.  Optimization <br>
